@@ -1,0 +1,88 @@
+body
+{
+    text-align: center;
+}
+
+h3
+{
+    font-size: 25px !important;
+}
+
+.btn-success:hover
+{
+    background-color: red;
+}
+
+canvas
+{
+   animation-name: example;
+   animation-duration: 4s;
+   animation-iteration-count: infinite;
+}
+
+@keyframes example {
+    from {box-shadow: 10px 10px 50px purple;}
+      to{box-shadow: 10px 10px 50px  palevioletred;}
+}
+
+#pkmnicu p{
+    font-size: 35px;
+    font-family: 'Permanent Marker', cursive;
+}
+#pkmnicu p{
+    font-size: 35px;
+    font-family: 'Permanent Marker', cursive;
+}
+#pkmnicu img{
+    height: 500px;
+    width:90px; 
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+    display: inline-block;
+    margin-top: 20px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: #ff7700;
+}
+#pkmnicu p{
+    font-size: 35px;
+    font-family: 'Permanent Marker', cursive;
+}
+#pkmnicu h3{
+    font-size: 35px;
+    font-family: 'Permanent Marker', cursive;
+}
+#pkmnicu img{
+    height: 500px;
+    width:90px; 
+}
+#pkmnicupa p{
+    font-size: 35px;
+    font-family: 'Permanent Marker', cursive;
+    margin-bottom: 400px;
+}
+#pkmnicupa img{
+    height: 500px;
+    width:400px; 
+}
+#movie{
+    text-align: center;
+     border: 1px solid grey;
+}
+
+#movie h3{
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+}
+#movie h2{
+  font-family: 'ZCOOL KuaiLe', cursive;
+    font-size: 20px;
+}
